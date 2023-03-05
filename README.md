@@ -1,1 +1,1 @@
-# -bcc-news-classification
+# bcc-news-classification
